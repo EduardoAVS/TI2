@@ -1,2 +1,1 @@
-# eclipse
-Projetos .java usando a IDE Eclipse 
+exercícios de integração TI2
